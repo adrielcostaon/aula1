@@ -16,7 +16,7 @@
 
         <p style="font-size: 20px"><em>Nossa missão é: <strong>"<li>Item vermelho Proporcionar auto-estima e qualidade de vida aos clientes"</li> </strong>.</em></p>
 
-        <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
+        <p><li>Item lilás Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.</li>
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
         </bod>
     </html>
