@@ -20,3 +20,9 @@
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
     </body>
 </html>
+
+<ul>
+    <li>Item lilás</li>
+    <li>Item azul</li>
+    <li>Item vermelho</li>
+</ul>
