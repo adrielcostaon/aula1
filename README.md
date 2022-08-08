@@ -8,6 +8,7 @@
     </head>
 
     <body>
+        <ul>
          <img src="file:///home/Aluno/Downloads/563cea3808f541f0b2f47f74ab6991-barbearia-hermanos-santa-cecil-biz-photo-6b0913eef64c445dab647b6a9a2199-booksy.jpeg">
         <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
 
@@ -19,6 +20,7 @@
         <p><li>Item lilás Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.</li>
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
         </body>
+    </ul>
     </html>
     
    
